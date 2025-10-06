@@ -1,0 +1,22 @@
+accelerate==1.8.1
+numba==0.61.2
+openai-whisper==20250625
+torch==2.7.1
+diffusers==0.34.0 
+# transformers==4.51.3 
+transformers==4.52.1
+coqui-tts
+# ==0.27.1
+gradio==5.36.2 
+sentencepiece==0.2.1 
+tokenizers==0.21.2 
+numpy
+# ==1.26.4
+gensim
+# ==4.3.3
+scipy==1.13.1
+scikit-learn==1.7.0   
+librosa==0.11.0
+ipykernel
+nltk==3.9.1
+spacy==3.8.7
